@@ -1,74 +1,82 @@
-<!DOCTYPE html><html lang="pt-BR">
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Folha Viva - Tônico Capilar Vegano</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Erva-cidreira | Plantas Medicinais</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Space Grotesk', sans-serif;
-      background: linear-gradient(to bottom right, #faf3ea, #d8f3dc);
-    }
-    .psychedelic {
-      background: linear-gradient(135deg, #b2fef7 0%, #ffdde1 100%);
-      border-radius: 1rem;
-      box-shadow: 0 0 25px rgba(255, 204, 229, 0.4);
-      transition: transform 0.3s ease-in-out;
-    }
-    .psychedelic:hover {
-      transform: scale(1.02);
-    }
-  </style>
 </head>
-<body class="text-gray-800">
-  <div class="max-w-3xl mx-auto p-6">
-    <header class="text-center mb-10">
-      <h1 class="text-4xl font-bold text-green-800 psychedelic p-4">Folha Viva</h1>
-      <p class="text-lg text-gray-700 mt-2 italic">Nutra tuas raízes com sabedoria das plantas</p>
-      <a href="Folha_Viva_Tonico_Capilar_Vegano.pdf" download class="inline-block mt-4 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition">Baixar PDF</a>
-    </header><section class="bg-white p-6 rounded-xl shadow-md psychedelic">
-  <h2 class="text-2xl font-semibold text-green-700 mb-4">Ingredientes principais</h2>
-  <ul class="list-disc list-inside">
-    <li>Alecrim</li>
-    <li>Hibisco</li>
-    <li>Folha de goiabeira</li>
-    <li>Gengibre</li>
-    <li>Vinagre de maçã</li>
-    <li>Óleos essenciais de alecrim e lavanda</li>
-  </ul>
-</section>
+<body class="bg-green-50 text-gray-800 font-sans leading-relaxed">
 
-<section class="mt-8 bg-white p-6 rounded-xl shadow-md psychedelic">
-  <h2 class="text-2xl font-semibold text-green-700 mb-4">Modo de preparo</h2>
-  <ol class="list-decimal list-inside space-y-1">
-    <li>Faça uma infusão com as ervas em água quente por 30 minutos.</li>
-    <li>Coe e adicione o vinagre e os óleos essenciais.</li>
-    <li>Armazene em frasco escuro e agite antes de usar.</li>
-  </ol>
-</section>
+  <header class="bg-green-700 text-white p-6 shadow">
+    <h1 class="text-3xl font-bold">Erva-cidreira (*Melissa officinalis*)</h1>
+    <p class="text-green-100 mt-2">Calmante natural, suave e acolhedora</p>
+  </header>
 
-<section class="mt-8 bg-white p-6 rounded-xl shadow-md psychedelic">
-  <h2 class="text-2xl font-semibold text-green-700 mb-4">Modo de uso</h2>
-  <p class="mb-2">Aplique no couro cabeludo limpo 1x ao dia.</p>
-  <p class="mb-2">Massageie por 3 a 5 minutos. Não enxágue.</p>
-  <p>Validade: 7 dias na geladeira (ou até 15 com vitamina E).</p>
-</section>
+  <main class="max-w-4xl mx-auto p-6 space-y-8">
 
-<section class="mt-8 text-center text-xl italic text-purple-700">
-  "Teus fios são raízes vivas - planta poder neles."
-</section>
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Origem e Distribuição</h2>
+      <p>A erva-cidreira é nativa da Europa e Ásia Ocidental, mas se adaptou super bem ao clima brasileiro. Ela ama sol suave, solo fértil e regas moderadas. Pode ser cultivada em vasos, hortas ou canteiros.</p>
+    </section>
 
-<section class="mt-10 bg-white p-6 rounded-xl shadow-md psychedelic">
-  <h2 class="text-2xl font-semibold text-green-700 mb-4">Depoimentos</h2>
-  <blockquote class="border-l-4 border-purple-400 pl-4 italic text-gray-700 mb-4">
-    "Depois que comecei a usar o Folha Viva, senti meu cabelo mais cheio e forte em poucas semanas." – Ana
-  </blockquote>
-  <blockquote class="border-l-4 border-purple-400 pl-4 italic text-gray-700">
-    "Além do cheirinho incrível, minhas entradas diminuíram visivelmente. Tô apaixonado!" – Lucas
-  </blockquote>
-</section>
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Onde Comprar</h2>
+      <ul class="list-disc list-inside">
+        <li>Lojas de jardinagem locais</li>
+        <li>Feiras orgânicas</li>
+        <li><a href="https://www.plantei.com.br" target="_blank" class="text-green-700 underline">Plantei</a></li>
+        <li><a href="https://www.isla.com.br" target="_blank" class="text-green-700 underline">Isla Sementes</a></li>
+        <li>Mercado Livre (verifique procedência!)</li>
+      </ul>
+    </section>
 
-  </div>
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Como Plantar</h2>
+      <p>
+        A erva-cidreira prefere sol pleno a meia-sombra. Plante em solo bem drenado e fértil, mantendo a terra úmida, mas sem encharcar. A colheita das folhas pode começar entre 60 e 90 dias após o plantio.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Benefícios Medicinais</h2>
+      <ul class="list-disc list-inside">
+        <li>Calmante natural</li>
+        <li>Ajuda no sono</li>
+        <li>Alivia ansiedade leve</li>
+        <li>Melhora a digestão</li>
+        <li>Levemente antioxidante</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Como Utilizar e Tempo de Ação</h2>
+      <p>Prepare um chá com 1 colher de folhas secas ou 3 de folhas frescas para 1 xícara de água. Tomar de 1 a 2 xícaras por dia. Os efeitos calmantes aparecem geralmente após 5 a 7 dias de uso contínuo.</p>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Curiosidades</h2>
+      <p>O nome "Melissa" vem do grego e significa "abelha". As abelhas amam essa planta! E os monges medievais usavam a erva para acalmar o espírito.</p>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Imagens</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Melissa_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-093.jpg/440px-Melissa_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-093.jpg" alt="Erva-cidreira Ilustração" class="rounded-xl shadow-md mt-4">
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-green-800">Links Úteis</h2>
+      <ul class="list-disc list-inside">
+        <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=melissa+officinalis" target="_blank" class="text-green-700 underline">Artigos científicos no PubMed</a></li>
+        <li><a href="https://www.youtube.com/watch?v=QkR9D0k3FLU" target="_blank" class="text-green-700 underline">Como fazer chá de erva-cidreira (YouTube)</a></li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer class="bg-green-700 text-white text-center p-4 mt-10">
+    <p>&copy; 2025 Plantas Medicinais Educativas. Todos os direitos reservados.</p>
+  </footer>
+
 </body>
 </html>
